@@ -1,0 +1,107 @@
+[{
+  
+  "id": 1,
+  "name": "Web Development",
+  "title": "A beginner's roadmap to web development typically starts with learning the fundamentals of HTML, CSS, and JavaScript, followed by mastering front-end frameworks and back-end programming.",
+  "category": "Roadmap",
+  "image": "https://img.freepik.com/free-photo/side-view-attractive-hispanic-software-developer-programming-using-computer-while-working-from-home_662251-958.jpg?t=st=1715583764~exp=1715587364~hmac=630d8aeb1668f71f413044881ed154b9da2c1f3f9ed34128c6600f40837368a6&w=740",
+  "link": "https://www.freecodecamp.org/news/beginners-roadmap-web-development/"
+},
+{
+  
+  "id": 2,
+  "name": "Coding Languages",
+  "title": "A beginner's roadmap for this involves starting with Python, then moving to JavaScript for web development, and then to Java or C++ for understanding of object-oriented and system programming.",
+  "category": "Roadmap",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1715590636~exp=1715594236~hmac=1fac3fc6241464cfee1ab955802df24326d6712298b1505f32c3069cc0b2851a&w=900",
+  "link": "https://dev.to/codewithshahan/how-to-actually-learn-to-code-roadmaps-for-beginners-39o8"
+},
+{
+  
+  "id": 3,
+  "name": "Building Coding Logic",
+  "title": "To build programming logic as a beginner, focus on understanding core concepts, practice problem-solving regularly, study algorithms and data structures, and write and review code consistently.",
+  "category": "Roadmap",
+  "image": "https://img.freepik.com/free-vector/flat-cms-concept-illustrated_23-2148799072.jpg?t=st=1715585572~exp=1715589172~hmac=3bb210f76fb1bbbbbc9552739a4ade898526bbe47bb41eee4267b953ff9abd18&w=900",
+  "link": "https://www.geeksforgeeks.org/15-tips-to-improve-logic-building-skills-in-programming/"
+},
+{
+  
+  "id": 4,
+  "name": "How to start?",
+  "title": "To start your coding journey as a beginner, dive into a simple language for an easy-to-learn syntax, practice with real-world projects, and then explore other languages and computer science fundamentals to broaden your skills.",
+  "category": "Roadmap",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1715585681~exp=1715589281~hmac=b1ba51eeb45829946f1e8e056fc10069ad7c671d7ced6012d64f4ed5085640ef&w=900",
+  "link": "https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/"
+},
+{
+  
+  "id": 5,
+  "name": "Algorithm?",
+  "title": "Learning a Programming Language involves understanding Time and Space Complexities and studying Data Structures and Algorithms. There are wide variety of Algorithm, each with specific purposes",
+  "category": "Roadmap",
+  "image": "https://img.freepik.com/free-vector/programmer-working-with-html_52683-24171.jpg?t=st=1715590798~exp=1715594398~hmac=04e2cb8cf2eb78e44fc90980d9f537447eb6632a9801cb35b84060118aaaf943&w=900",
+  "link": "https://www.geeksforgeeks.org/most-important-type-of-algorithms/"
+},
+{
+  
+  "id": 6,
+  "name": "Coding Maths Problems",
+  "title": "First we have to Learn Basic Math Concepts and Understand Number Theory.Then Practice Regularly on Coding Platform because only practice can make a man perfect and a good programmer",
+  "category": "Roadmap",
+  "image": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040427.jpg?t=st=1715586327~exp=1715589927~hmac=2a16472ae57c08cda43ec88aa82e85bed70acd4dbf4fb5053d15a566569c9426&w=900",
+  "link": "https://www.codemonkey.com/blog/how-to-teach-math-with-coding/"
+},
+{
+  
+  "id": 7,
+  "name": "Data Structures",
+  "title": "Data structures include arrays, linked lists, stacks, queues, trees, and graphs, each designed for specific types of data management tasks.",
+  "category": "Services",
+  "image": "https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?size=626&ext=jpg&uid=R148578847&ga=GA1.1.402865572.1715583670&semt=sph",
+  "link": "https://data-structures-ds.netlify.app/"
+},
+{
+  
+  "id": 8,
+  "name": "Algorithm",
+  "title": "These are a set of step-by-step instructions or rules designed to perform a specific task or solve a problem. Algorithms can vary in complexity.",
+  "category": "Services",
+  "image": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1715965168~exp=1715968768~hmac=872fbe1b29acc2367b68d376d7e0c94d551da030a066966a6b6ddb1eba066efc&w=900",
+  "link": "https://algo-algorithm-dsa-programming.netlify.app/"
+},
+{
+  
+  "id": 9,
+  "name": "Frontend Development",
+  "title": "Frontend Development is the process of creating the user interface and experience of a website using HTML, CSS, and JavaScript.",
+  "category": "Services",
+  "image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1715965357~exp=1715968957~hmac=0f08b50b733419656f18edd27ca55ace01e7aafd14bcb654659e53e1fe86b9a7&w=900",
+  "link": "https://frontend-development-html-css-js.netlify.app/"
+},
+{
+  
+  "id": 10,
+  "name": "Backend Development",
+  "title": "It refers to the server-side development of a web application, where the focus is on databases, server logic, and application architecture.",
+  "category": "Services",
+  "image": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1715965447~exp=1715969047~hmac=01ad55c180be17120c21347382e67f64b3123b2ed2f3a6e15a21aa8d3c9a08e0&w=900",
+  "link": "https://backend-development-php-mongodb-nodej.netlify.app/"
+},
+{
+  "id": 11,
+  "name": "Math Coding Problems",
+  "title": "A Feature that provides a help to the user in understanding thr basic logic behind coding of any mathematical problem or number.",
+  "category": "Services",
+  "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?t=st=1715965580~exp=1715969180~hmac=5694399c42373ab8d7f6534200823021e099e2cfd550003c94c488f0d84b3f91&w=900",
+  "link": "/publish"
+},
+{
+  
+  "id": 12,
+  "name": "Programming Languages",
+  "title": "contains all required resources to learn languages like C, Python, Java with detailed explanation of all topics including object oriented",
+  "category": "Services",
+  "image": "https://img.freepik.com/free-vector/flat-programming-skills-landing-page-template_52683-78518.jpg?t=st=1715965631~exp=1715969231~hmac=d47a6125c11cf33176c2c3f33d0b246440373f4a441294cceeb4f1ec3aa3f953&w=900",
+  "link": "https://programming-languages-c-java-python.netlify.app/"
+}]
